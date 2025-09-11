@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kubanja Elijah Eldred
-![Coding Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 ## 💻 About Me
 I’m a **Virtualized Software Engineering student at Bugema University**, passionate about creating **efficient algorithms, mobile apps, and IoT projects**.  
