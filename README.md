@@ -22,43 +22,11 @@ I love solving challenges, building databases, and combining hardware with softw
 ---
 
 ## 🌟 Projects Portfolio
-
 ### 🔹 Algorithms & Data Structures
-<div align="center">
-  <a href="https://github.com/eldred16?tab=repositories&q=algorithm">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="Algorithms GIF" />
-  </a>
-  <p>Sorting, Searching, Recursion & Dynamic Programming Solutions</p>
-</div>
-
 ### 🔹 Databases
-<div align="center">
-  <a href="https://github.com/eldred16?tab=repositories&q=database">
-    <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="250" alt="Databases GIF" />
-  </a>
-  <p>Relational & NoSQL database design, SQL & MongoDB queries</p>
-</div>
-
 ### 🔹 Web & Mobile Apps
-<div align="center">
-  <a href="https://github.com/eldred16/Library-Management-App">
-    <img src="https://media.giphy.com/media/26xBP7y7d2zM7vV0A/giphy.gif" width="250" alt="Library App GIF" />
-  </a>
-  <a href="https://github.com/eldred16/Movie-Library-App">
-    <img src="https://media.giphy.com/media/l0HlJ7Vq4bDnn5iTq/giphy.gif" width="250" alt="Movie App GIF" />
-  </a>
-  <p>Flutter + Firebase / SQLite apps showcasing Library & Movie Management</p>
-</div>
-
 ### 🔹 IoT & Hardware
-<div align="center">
-  <a href="https://github.com/eldred16/Smart-Bin-Project">
-    <img src="https://media.giphy.com/media/xT1R9i2Y4A5I7xVDOY/giphy.gif" width="250" alt="Smart Bin GIF" />
-  </a>
-  <p>ESP32 + Ultrasonic Sensor + Servo Motor IoT Smart Bin Project</p>
-</div>
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
